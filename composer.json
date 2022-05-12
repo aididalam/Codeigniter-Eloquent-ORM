@@ -1,11 +1,11 @@
 {
 	"description": "The CodeIgniter framework",
-	"name": "codeigniter/framework",
-	"type": "project",
-	"homepage": "https://codeigniter.com",
+	"name": "codeigniter/framework-with-eloquent",
+	"type": "framework",
+	"homepage": "https://github.com/aididalam/Codeigniter-Eloquent-ORM",
 	"license": "MIT",
 	"support": {
-		"forum": "http://forum.codeigniter.com/",
+		"forum": "https://github.com/aididalam/Codeigniter-Eloquent-ORM/discussions/1",
 		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
 		"slack": "https://codeigniterchat.slack.com",
 		"source": "https://github.com/bcit-ci/CodeIgniter"
