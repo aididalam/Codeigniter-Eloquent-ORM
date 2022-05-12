@@ -1,9 +1,15 @@
 {
-	"description": "The CodeIgniter framework",
+	"description": "CodeIgniter 3 framework with Eloquent ORM",
 	"name": "codeigniter/framework-with-eloquent",
 	"type": "framework",
 	"homepage": "https://github.com/aididalam/Codeigniter-Eloquent-ORM",
 	"license": "MIT",
+	"authors": [
+		{
+		    "name": "Aidid Alam",
+		    "email": "aididalam11@gmail.com"
+		}
+    	],
 	"support": {
 		"forum": "https://github.com/aididalam/Codeigniter-Eloquent-ORM/discussions/1",
 		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
