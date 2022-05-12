@@ -1,6 +1,6 @@
 {
 	"description": "CodeIgniter 3 framework with Eloquent ORM",
-	"name": "codeigniter/framework-with-eloquent",
+	"name": "modCI3/with-eloquent",
 	"type": "framework",
 	"homepage": "https://github.com/aididalam/Codeigniter-Eloquent-ORM",
 	"license": "MIT",
